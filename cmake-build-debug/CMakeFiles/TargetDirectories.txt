@@ -1,0 +1,3 @@
+/Users/charlesbta/Documents/GitHub/tp-server/cmake-build-debug/CMakeFiles/tp_server.dir
+/Users/charlesbta/Documents/GitHub/tp-server/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/charlesbta/Documents/GitHub/tp-server/cmake-build-debug/CMakeFiles/rebuild_cache.dir
